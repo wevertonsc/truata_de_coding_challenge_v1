@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed May 05 18:53:52 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0179-3daa-294d-0000040f5e38 
+on database directory /Users/weverton.castanho/architecture/tmp/truata_de_coding_challenge/src/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/pyspark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=/Users/weverton.castanho/architecture/tmp/truata_de_coding_challenge/src
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

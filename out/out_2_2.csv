@@ -1,0 +1,37 @@
+neighbourhood_cleansed,min_price,as_max_price,row_count
+Inner Sunset,45.0,3800.0,154
+Haight Ashbury,33.0,1195.0,351
+Financial District,45.0,2010.0,134
+North Beach,38.0,750.0,149
+Western Addition,10.0,8000.0,599
+Downtown/Civic Center,19.0,1200.0,538
+Bernal Heights,39.0,1000.0,373
+Lakeshore,35.0,295.0,54
+Outer Sunset,32.0,699.0,269
+Visitacion Valley,50.0,480.0,60
+Inner Richmond,40.0,899.0,186
+Nob Hill,33.0,9000.0,215
+Outer Richmond,43.0,900.0,147
+Crocker Amazon,35.0,699.0,52
+Chinatown,30.0,800.0,118
+Bayview,36.0,550.0,157
+Mission,33.0,10000.0,691
+Excelsior,30.0,599.0,162
+Twin Peaks,53.0,2000.0,63
+Seacliff,55.0,3394.0,20
+Presidio Heights,60.0,1500.0,28
+Golden Gate Park,125.0,889.0,5
+Glen Park,40.0,1000.0,70
+Presidio,105.0,105.0,1
+Potrero Hill,39.0,4500.0,214
+Parkside,28.0,8000.0,127
+Outer Mission,35.0,600.0,150
+Castro/Upper Market,10.0,1450.0,405
+Marina,43.0,3050.0,186
+Noe Valley,39.0,1500.0,317
+Diamond Heights,80.0,495.0,19
+Ocean View,29.0,1500.0,103
+Russian Hill,31.0,3250.0,159
+South of Market,30.0,2281.0,599
+Pacific Heights,55.0,8000.0,155
+West of Twin Peaks,41.0,1000.0,116
